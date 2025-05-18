@@ -42,7 +42,7 @@
 
 <br/>
 
-<h2 align="center"> Langages que je souhaiterais connaître : ⏩ </h2> 
+<h2 align="center"> Langages à approfondir : ⏩ </h2> 
 <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" alt="C" height="40" /></a> 
 <a href="https://fr.wikipedia.org/wiki/C_Sharp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" alt="C#" height="40" /></a> 
 <a href="https://fr.wikipedia.org/wiki/Java_(langage)" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" alt="Java" height="40" /></a> 
